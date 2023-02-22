@@ -1,5 +1,3 @@
-# task_one_new
-
 """
 ----------------------
 PROBLEM STATEMENT
