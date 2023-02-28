@@ -73,6 +73,7 @@ def main():
                         help="end of the range")
     parser.add_argument(
         '-r',
+
         '--resource',
         default="people",
         help="name of the resource",

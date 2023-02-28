@@ -15,6 +15,7 @@ logging.basicConfig(
 
 
 def mylogger(func):
+
     def wrapper(url, **kwargs):
         try:
             logging.info(f"we are hitting - {url}")
